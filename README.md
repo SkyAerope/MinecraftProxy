@@ -33,5 +33,7 @@ unzip release.zip
 
 ```shell
 dotnet ./MinecraftProxy2.dll
-```
+``
+Enter the MC server address you want to speed up
+Then enter the MC port of the acceleration server firs,And enter the MC port used to connect the speedup to your machine！
 
