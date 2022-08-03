@@ -34,4 +34,7 @@ unzip release.zip
 ```shell
 dotnet ./MinecraftProxy2.dll
 ```
-
+If this command fails on **Linux** (command not found), you can try the following one.
+```shell
+ ~/.dotnet/dotnet ./MinecraftProxy2.dll
+```
